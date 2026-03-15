@@ -1,0 +1,7 @@
+pdfplumber
+tiktoken
+langchain
+langchain-community
+chromadb
+rank-bm25
+sentence-transformers
