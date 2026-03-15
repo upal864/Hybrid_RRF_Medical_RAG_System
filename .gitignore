@@ -3,7 +3,7 @@ __pycache__/
 *.pyc
 .env
 corpus/
-chroma_db/
+chroma_db_bge/
 eval/evaluation_results*.csv
 eval/ragas_dataset.json
 eval/ragas_evaluation_report*.png
