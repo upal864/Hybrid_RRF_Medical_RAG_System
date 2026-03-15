@@ -1,0 +1,8 @@
+# Carcinoid Tumors
+
+<p>Carcinoid tumors are rare, slow-growing cancers. They usually start in the lining of the digestive tract or in the lungs. They grow slowly and don't produce symptoms in the early stages. As a result, the average age of people diagnosed with digestive or lung carcinoids is about 60.  </p>
+
+<p>In later stages the tumors sometimes produce hormones that can cause carcinoid syndrome. The syndrome causes flushing of the face and upper chest, diarrhea, and trouble breathing. </p> 
+
+<p>Surgery is the main treatment for carcinoid tumors. If they haven't spread to other parts of the body, surgery can cure the cancer. </p>
+

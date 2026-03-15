@@ -1,0 +1,11 @@
+# Heel Injuries and Disorders
+
+<p>Heel problems are common and can be painful. Often, they result from too much stress on your heel bone and the tissues that surround it. That stress can come from:</p><ul>
+<li>Injuries</li>
+<li>Bruises that you get walking, running or jumping </li>
+<li>Wearing shoes that don't fit or aren't made well</li>
+<li>Being overweight</li>
+</ul>
+
+<p>These can lead to tendinitis, bursitis, and fasciitis, which are all types of inflammation of the tissues that surround your heel. Over time the stress can cause bone spurs and deformities. Certain diseases, such as rheumatoid arthritis and gout, can also lead to heel problems. Treatments for heel problems might include rest, medicines, exercises, taping, and special shoes. Surgery is rarely needed.</p>
+

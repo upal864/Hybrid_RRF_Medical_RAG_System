@@ -1,0 +1,13 @@
+# Dietary Fats
+
+<p>Fat is a type of nutrient. You need some fat in your diet but not too much. Fats give you energy and help your body absorb vitamins. Dietary fat also plays a major role in your <a href="https://medlineplus.gov/cholesterollevelswhatyouneedtoknow.html">cholesterol levels</a>.</p>
+
+<p>But not all fats are the same. You should try to avoid:</p><ul>
+<li>Saturated fats such as butter, solid shortening, and lard</li>
+<li>Trans fats. These are found in vegetable shortenings, some margarines, crackers, cookies, snack foods, and other foods made with or fried in partially hydrogenated oils (PHOs). By 2018, most U.S. companies will not be allowed to add PHOs to food.</li>
+</ul>
+
+<p>Try to replace them with oils such as canola, olive, safflower, sesame, or sunflower. Of course, eating too much fat will put on the pounds.  Fat has twice as many calories as proteins or carbohydrates.</p>
+
+<p class="">NIH: National Heart, Lung, and Blood Institute</p>
+

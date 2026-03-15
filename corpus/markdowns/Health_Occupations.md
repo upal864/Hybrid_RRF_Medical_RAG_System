@@ -1,0 +1,8 @@
+# Health Occupations
+
+<p>Every day, around the clock, people who work in the health care industry provide care for millions of people, from newborns to the very ill. In fact, the health care industry is one of largest providers of jobs in the United States. Many health jobs are in hospitals. Others are in nursing homes, doctors' offices, dentists' offices, outpatient clinics and laboratories.</p>
+
+<p>To work in a health occupation, you often must have special training.  Some, like doctors, must have more than 4 years of college.</p>
+
+<p class="">Bureau of Labor Statistics</p>
+

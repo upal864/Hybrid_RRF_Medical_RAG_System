@@ -1,0 +1,14 @@
+# Hormones
+
+<p>Hormones are your body's chemical messengers. They travel in your bloodstream to tissues or organs. They work slowly, over time, and affect many different processes, including:</p><ul>
+  <li>Growth and development</li>
+  <li>Metabolism - how your body gets energy from the foods you eat</li>
+  <li> Sexual function</li>
+  <li> Reproduction</li>
+  <li> Mood</li>
+</ul>
+
+<p>Endocrine glands, which are special groups of cells, make hormones. The major endocrine glands are the pituitary, pineal, thymus, thyroid, adrenal glands, and pancreas. In addition, men produce hormones in their testes and women produce them in their ovaries. </p>
+
+<p>Hormones are powerful. It takes only a tiny amount to cause big changes in cells or even your whole body. That is why too much or too little of a certain hormone can be serious. Laboratory tests can measure the hormone levels in your blood, urine, or saliva.  Your health care provider may perform these tests if you have symptoms of a <a href="https://medlineplus.gov/endocrinediseases.html">hormone disorder</a>. Home pregnancy tests are similar - they test for pregnancy hormones in your urine.</p>
+

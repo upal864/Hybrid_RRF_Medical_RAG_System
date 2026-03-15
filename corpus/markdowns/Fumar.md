@@ -1,0 +1,34 @@
+# Fumar
+
+<h3>¿Cuáles son los efectos de fumar en la salud?</h3>
+<p>No hay otra manera de decirlo: Fumar es dañino para la salud. Daña a casi todos los órganos del cuerpo, incluso algunos que no se esperaría. Fumar cigarrillos causa muchos casos de cáncer y otros problemas de salud. También es la causa de casi una de cada cinco muertes en los Estados Unidos.</p>
+
+<p>Algunos de los muchos problemas de salud que puede causar fumar incluyen:</p>
+
+<ul>
+<li><strong>Cáncer</strong>: Fumar es la causa más común de cáncer de <a href="https://medlineplus.gov/spanish/lungcancer.html">pulmón</a> y de boca. Pero también puede causar cáncer en muchas otras partes del cuerpo, como en la laringe, <a href="https://medlineplus.gov/spanish/esophagealcancer.html">esófago</a>, <a href="https://medlineplus.gov/spanish/throatcancer.html">garganta</a>, <a href="https://medlineplus.gov/spanish/bladdercancer.html">vejiga</a>, <a href="https://medlineplus.gov/spanish/kidneycancer.html">riñón</a>, <a href="https://medlineplus.gov/spanish/livercancer.html">hígado</a>, <a href="https://medlineplus.gov/spanish/stomachcancer.html">estómago</a>, <a href="https://medlineplus.gov/spanish/pancreaticcancer.html">páncreas</a>, <a href="https://medlineplus.gov/spanish/colorectalcancer.html">colon y recto</a>; y <a href="https://medlineplus.gov/spanish/cervicalcancer.html">cuello uterino</a>. También puede causar <a href="https://medlineplus.gov/spanish/acutemyeloidleukemia.html">leucemia mieloide aguda</a></li>
+<li><strong><a href="https://medlineplus.gov/spanish/lungdiseases.html">Enfermedades pulmonares</a></strong>: Fumar es la causa más común de <a href="https://medlineplus.gov/spanish/copd.html">EPOC</a>. También puede empeorar el <a href="https://medlineplus.gov/spanish/asthma.html">asma</a> y aumentar el riesgo de tener neumonía</li>
+<li><strong>Enfermedades cardiovasculares</strong>: Fumar puede dañar los vasos sanguíneos y hacerlos más gruesos y estrechos. Esto hace que su corazón lata más rápido y <a href="https://medlineplus.gov/spanish/highbloodpressure.html">sube su presión arterial</a>. Fumar también aumenta el riesgo de sufrir <a href="https://medlineplus.gov/spanish/bloodclots.html">coágulos sanguíneos</a> y <a href="https://medlineplus.gov/spanish/stroke.html">accidentes cerebrovasculares</a></li>
+<li><strong><a href="https://medlineplus.gov/spanish/visionimpairmentandblindness.html">Problemas de la visión</a></strong>: Fumar puede aumentar su riesgo de <a href="https://medlineplus.gov/spanish/cataract.html">cataratas</a> y causar <a href="https://medlineplus.gov/spanish/maculardegeneration.html">degeneración macular</a></li>
+</ul>Si <a href="https://medlineplus.gov/spanish/pregnancyandsubstanceuse.html">fuma durante el embarazo</a> tiene más posibilidades de tener <a href="https://medlineplus.gov/spanish/healthproblemsinpregnancy.html">ciertos problemas</a> durante el embarazo. Su bebé también corre un mayor riesgo de morir por <a href="https://medlineplus.gov/spanish/suddeninfantdeathsyndrome.html">síndrome de muerte súbita del lactante</a>.<p></p> 
+<p>Fumar además causa adicción a la nicotina, un estimulante que se encuentra en el tabaco. La adicción a la nicotina hace más difícil que las personas <a href="https://medlineplus.gov/spanish/quittingsmoking.html">dejen de fumar</a>.</p>
+
+<h3>¿Cuáles son los riesgos para la salud de la inhalación pasiva de humo?</h3>
+<p>Su humo también es malo para otras personas. Si respiran el <a href="https://medlineplus.gov/spanish/secondhandsmoke.html">humo de segunda mano</a> pueden tener muchos de los mismos problemas que los fumadores. Estos problemas pueden incluir <a href="https://medlineplus.gov/spanish/heartdiseases.html">enfermedades del corazón</a> y cáncer de pulmón. Los niños expuestos al humo de segunda mano tienen un mayor riesgo de <a href="https://medlineplus.gov/spanish/earinfections.html">infecciones de oído</a>, <a href="https://medlineplus.gov/spanish/commoncold.html">resfriados</a>, <a href="https://medlineplus.gov/spanish/pneumonia.html">neumonía</a>, bronquitis y <a href="https://medlineplus.gov/spanish/asthmainchildren.html">asma</a> más grave. Si respira humo de segunda mano durante el embarazo, tendrá más probabilidades de tener un <a href="https://medlineplus.gov/spanish/pretermlabor.html">parto prematuro</a> y un bebé con <a href="https://medlineplus.gov/spanish/birthweight.html">bajo peso al nacer</a>.</p> 
+
+<h3>¿Son peligrosas las otras formas de tabaco?</h3>
+<p>Además de los cigarrillos, hay varios otros productos hechos con tabaco. Algunas personas fuman tabaco en cigarros y pipas de agua (narguiles). Estas formas de tabaco también tienen sustancias químicas dañinas y nicotina. Algunos cigarros contienen tanto tabaco como un paquete completo de cigarrillos.</p> 
+<p>Con frecuencia, los <a href="https://medlineplus.gov/spanish/ecigarettes.html">cigarrillos electrónicos</a> parecen cigarrillos, pero funcionan de manera diferente. Son dispositivos para fumar con baterías. Usar un cigarrillo-e se llama vapear. Los investigadores aún tienen mucho que aprender sobre los efectos del uso de cigarrillos electrónicos en la salud. Se sabe que contienen nicotina, que es altamente adictiva y un peligro para su salud y la de su feto si está embarazada, y la salud de niños y adolescentes. Además, los cigarrillos electrónicos también exponen a los no fumadores al vapor de segunda mano (en lugar de humo de segunda mano), que contienen sustancias químicas nocivas.</p>
+<p>El <a href="https://medlineplus.gov/spanish/smokelesstobacco.html">tabaco que no se fuma</a>, como que se mastica o el rapé, también es malo para la salud. El tabaco sin humo puede causar ciertos tipos de cáncer, incluido el oral. También aumenta el riesgo de contraer enfermedades cardíacas, <a href="https://medlineplus.gov/spanish/gumdisease.html">enfermedades de las encías</a> y lesiones de la boca.</p> 
+
+<h3>¿Por qué debo dejar de fumar?</h3>
+<p>Debe saber que no hay un nivel seguro de consumo de tabaco. Fumar incluso un solo cigarrillo al día durante la vida puede causar algún cáncer relacionado con el fumar y muerte prematura. <a href="https://medlineplus.gov/spanish/quittingsmoking.html">dejen de fumar</a> puede reducir su riesgo de problemas de salud y sumar años a su vida. Cuanto antes deje de fumar, mayor será el beneficio. Algunos beneficios inmediatos de dejar de fumar incluyen:</p>
+<ul>
+<li>Menor ritmo cardíaco y presión arterial</li>
+<li>Menos monóxido de carbono en la sangre (el monóxido de carbono reduce la capacidad de la sangre para transportar oxígeno)</li>
+<li>Mejor circulación</li>
+<li>Menos tos y sibilancias</li>
+</ul>
+
+<p>Dejar de fumar puede ser un desafío, pero es muy importante para su salud. Consulte con su profesional de la salud si necesita ayuda para dejar de fumar.</p>
+

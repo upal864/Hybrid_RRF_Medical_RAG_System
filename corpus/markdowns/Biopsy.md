@@ -1,0 +1,8 @@
+# Biopsy
+
+<p>A biopsy is a procedure that removes cells or tissue from your body.  A doctor called a pathologist looks at the cells or tissue under a microscope to check for damage or disease. The pathologist may also do other tests on it.</p>
+
+<p>Biopsies can be done on all parts of the body. In most cases, a biopsy is the only test that can tell for sure if a suspicious area is cancer.  But biopsies are performed for many other reasons too.</p>
+
+<p>There are different types of biopsies. A needle biopsy removes tissue with a needle passed through your skin to the site of the problem. Other kinds of biopsies may require surgery.</p>
+

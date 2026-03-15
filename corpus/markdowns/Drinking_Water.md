@@ -1,0 +1,11 @@
+# Drinking Water
+
+<p>We all need to drink water. How much you need depends on your size, activity level, and the weather where you live.</p>
+
+<p>The water you drink is a combination of surface water and groundwater. Surface water includes rivers, lakes and reservoirs.  Groundwater comes from underground.  The United States has one of the safest water supplies in the world, but drinking water quality can vary from place to place. It depends on the condition of the source water and the treatment it receives. Treatment may include adding fluoride to prevent cavities and chlorine to kill 
+germs. </p>
+
+<p>Your water supplier must give you annual reports on drinking water. The reports include where your water came from and what <a href="https://medlineplus.gov/waterpollution.html">contaminants</a> are in it.</p>
+
+<p class="">Centers for Disease Control and Prevention</p>
+

@@ -1,0 +1,6 @@
+# Hair Loss
+
+<p>You lose up to 100 hairs from your scalp every day. That's normal, and in most people, those hairs grow back. But many men -- and some women -- lose hair as they grow older. You can also lose your hair if you have certain diseases, such as thyroid problems, diabetes, or lupus. If you take certain medicines or have chemotherapy for cancer, you may also lose your hair. Other causes are stress, a low protein diet, a family history, or poor nutrition. </p>
+
+<p>Treatment for hair loss depends on the cause. In some cases, treating the underlying cause will correct the problem. Other treatments include medicines and hair restoration. </p>
+

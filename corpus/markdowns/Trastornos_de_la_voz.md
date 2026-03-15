@@ -1,0 +1,18 @@
+# Trastornos de la voz
+
+<p>La voz es el sonido que se produce cuando el aire pasa desde los pulmones a través de la laringe. En la laringe se encuentran las cuerdas vocales, dos bandas musculares que vibran para emitir los sonidos. Para la mayoría de nosotros, la voz juega un papel importante sobre quiénes somos, lo que hacemos y cómo nos comunicamos. Como las huellas digitales, la voz de cada persona es única. </p>
+<p>Muchas cosas que hacemos pueden lastimar nuestras cuerdas vocales. Hablar demasiado, gritar, despejar la garganta constantemente o fumar pueden provocar ronquera. También pueden causar problemas como nódulos, pólipos y llagas en las cuerdas vocales. Otras causas de trastornos de la voz incluyen infecciones, subida de los ácidos gástricos hacia la garganta, crecimientos por un virus, cáncer y enfermedades que paralizan las cuerdas vocales.  </p>
+<p>Las señales que la voz no está saludable incluyen:</p>
+
+<ul>
+<li>Su voz se ha vuelto ronca o rasgada</li>
+<li>Ha perdido la habilidad de lograr algunas notas altas cuando canta</li>
+<li>Su voz de repente suena más profunda</li>
+<li>Su garganta se siente a menudo irritada, con dolor o cansada</li>
+<li>Debe esforzarse para hablar</li>
+</ul>
+
+<p>El tratamiento de los trastornos de la voz varía dependiendo de la causa. La mayoría de los problemas de la voz pueden ser tratados con éxito si se diagnostican temprano.</p>
+
+<p class="">NIH: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación </p>
+

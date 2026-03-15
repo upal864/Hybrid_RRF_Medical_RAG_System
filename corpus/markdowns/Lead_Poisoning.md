@@ -1,0 +1,15 @@
+# Lead Poisoning
+
+<p>Lead is a metal that occurs naturally in the earth's crust.  Lead can be found in all parts of our environment. Much of it comes from human activities such as mining and manufacturing. Lead used to be in paint; older houses may still have lead paint. You could be exposed to lead by:</p><ul>
+<li>Eating food or drinking water that contains lead. Water pipes in older homes may contain lead.</li>
+<li>Working in a job where lead is used</li>
+<li>Using lead in a hobby, such as making stained glass or lead-glazed pottery</li>
+<li>Using folk remedies such as herbs or foods that contain lead</li>
+</ul>
+
+<p>Breathing air, drinking water, eating food, or swallowing or touching dirt that contains lead can cause many health problems. Lead can affect almost every organ and system in your body. In adults, lead can increase blood pressure and cause infertility, nerve disorders, and muscle and joint pain. It can also make you irritable and affect your ability to concentrate and remember.</p>
+
+<p>Lead is especially dangerous for children. A child who swallows large amounts of lead may develop anemia, severe stomachache, muscle weakness, and brain damage. Even at low levels, lead can affect a child's mental and physical growth.</p>
+
+<p class="">Agency for Toxic Substances Disease Registry</p>
+

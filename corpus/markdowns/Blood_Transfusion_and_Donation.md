@@ -1,0 +1,14 @@
+# Blood Transfusion and Donation
+
+<p>Every year, millions of people in the United States receive life-saving blood transfusions.  During a transfusion, you receive whole blood or parts of blood such as:</p><ul>
+<li> Red blood cells - cells that carry oxygen to and from tissues and organs</li>
+<li>Platelets - cells that form clots to control bleeding</li>
+<li>Plasma - the liquid part of the blood that helps clotting. You may need it if you have been badly burned, have liver failure or a severe infection.</li>
+</ul>
+
+<p>Most blood transfusions go very smoothly.  Some infectious agents, such as HIV, can survive in blood and infect the person receiving the blood transfusion. To keep blood safe, blood banks carefully screen donated blood. The risk of catching a virus from a blood transfusion is low.</p>
+
+<p>Sometimes it is possible to have a transfusion of your own blood. During surgery, you may need a blood transfusion because of blood loss. If you are having a surgery that you're able to schedule months in advance, your doctor may ask whether you would like to use your own blood, instead of donated blood. If so, you will need to have blood drawn one or more times before the surgery. A blood bank will store your blood for your use.</p>
+
+<p class="">NIH: National Heart, Lung, and Blood Institute</p>
+

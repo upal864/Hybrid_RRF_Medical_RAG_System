@@ -1,0 +1,6 @@
+# Dislocaciones
+
+<p>Las dislocaciones (o luxaciones) son lesiones en las articulaciones que arrancan los extremos de los huesos y los sacan de su posición. La causa suele ser una caída o un golpe y, algunas veces, una consecuencia de practicar un <a href="https://medlineplus.gov/spanish/sportsinjuries.html">deporte</a> de contacto. Pueden producirse dislocaciones en los tobillos, las rodillas, los <a href="https://medlineplus.gov/spanish/dislocatedshoulder.html">hombros</a>, la cadera, los codos y la mandíbula. También pueden dislocarse las articulaciones de los dedos de las manos y los pies. Las articulaciones dislocadas suelen hincharse, doler y encontrarse, a simple vista, fuera de lugar. Puede suceder que no pueda moverla.   </p>
+
+<p>Una dislocación es una emergencia médica. Si esto sucede, busque atención médica en seguida. El tratamiento dependerá de la articulación afectada y de la gravedad de la lesión. Puede incluir maniobras para volver a poner los huesos en su lugar, medicamentos, férulas (yeso) o cabestrillo y rehabilitación. Cuando se vuelve a poner en su lugar, es posible que la articulación se mueva y funcione normalmente en unas semanas. Una dislocación de hombro o rótula puede que vuelva a dislocarse más adelante. Utilizar equipo protector durante la práctica de deportes puede ayudar a prevenir las dislocaciones. </p>
+

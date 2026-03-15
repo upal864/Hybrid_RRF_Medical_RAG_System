@@ -1,0 +1,13 @@
+# Methamphetamine
+
+<p>Methamphetamine - meth for short - is a very addictive stimulant drug.  It is a powder that can be made into a pill or a shiny rock (called a crystal). The powder can be eaten or snorted up the nose. It can also be mixed with liquid and injected into your body with a needle. Crystal meth is smoked in a small glass pipe.</p>
+
+<p>Meth at first causes a rush of good feelings, but then users feel edgy, overly excited, angry, or afraid.  Meth use can quickly lead to addiction. It causes medical problems including:</p><ul>
+<li>Making your body temperature so high that you pass out</li>
+<li>Severe itching</li>
+<li>"Meth mouth" - broken teeth and dry mouth</li>
+<li>Thinking and emotional problems</li>
+</ul>
+
+<p class="">NIH: National Institute on Drug Abuse</p>
+

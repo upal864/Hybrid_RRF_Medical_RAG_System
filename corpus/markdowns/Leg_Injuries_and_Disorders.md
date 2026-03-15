@@ -1,0 +1,6 @@
+# Leg Injuries and Disorders
+
+<p>Your legs are made up of bones, blood vessels, muscles, and other connective tissue. They are important for motion and standing. Playing sports, running, falling, or having an accident can damage your legs. Common leg injuries include <a href="https://medlineplus.gov/sprainsandstrains.html">sprains and strains</a>, <a href="https://medlineplus.gov/dislocations.html">joint dislocations</a>, and <a href="https://medlineplus.gov/fractures.html">fractures</a> (broken bones).</p>
+
+<p>These injuries can affect the entire leg, or just the <a href="https://medlineplus.gov/footinjuriesanddisorders.html">foot</a>, <a href="https://medlineplus.gov/ankleinjuriesanddisorders.html">ankle</a>, <a href="https://medlineplus.gov/kneeinjuriesanddisorders.html">knee</a>, or <a href="https://medlineplus.gov/hipinjuriesanddisorders.html">hip</a>. Certain diseases also lead to leg problems. For example, knee osteoarthritis, common in older people, can cause pain and limited motion. Problems in your veins in your legs can lead to <a href="https://medlineplus.gov/varicoseveins.html">varicose veins</a> or <a href="https://medlineplus.gov/deepveinthrombosis.html">deep vein thrombosis</a>.</p>
+
